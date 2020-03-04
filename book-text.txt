@@ -1,0 +1,279 @@
+ _   _                 ____  _  __  __                     _   
+| | | | _____      __ |  _ \(_)/ _|/ _| ___ _ __ ___ _ __ | |_ 
+| |_| |/ _ \ \ /\ / / | | | | | |_| |_ / _ \ '__/ _ \ '_ \| __|
+|  _  | (_) \ V  V /  | |_| | |  _|  _|  __/ | |  __/ | | | |_ 
+|_| |_|\___/ \_/\_/   |____/|_|_| |_|  \___|_|  \___|_| |_|\__|
+                                                               
+                  ___       _                      _ 
+  __ _ _ __ ___  |_ _|_ __ | | __   __ _ _ __   __| |
+ / _` | '__/ _ \  | || '_ \| |/ /  / _` | '_ \ / _` |
+| (_| | | |  __/  | || | | |   <  | (_| | | | | (_| |
+ \__,_|_|  \___| |___|_| |_|_|\_\  \__,_|_| |_|\__,_|
+                                                     
+  ____                 _     _ _      ___ 
+ / ___|_ __ __ _ _ __ | |__ (_) |_ __|__ \
+| |  _| '__/ _` | '_ \| '_ \| | __/ _ \/ /
+| |_| | | | (_| | |_) | | | | | ||  __/_| 
+ \____|_|  \__,_| .__/|_| |_|_|\__\___(_) 
+                |_|                       
+
+REVISION : Tue Mar 3 20:24:24 EST 2020 ( If I lied, what kind of friend would I be? )
+TYPED ON : Linux xpost2000lubuntu 4.18.0-25-generic 
+           #26-Ubuntu SMP Mon Jun 24 09:32:08 UTC 2019 
+           x86_64 x86_64 x86_64 GNU/Linux
+
+NVIM v0.3.1
+Build type: RelWithDebInfo
+LuaJIT 2.1.0-beta3
+Compilation: /usr/bin/cc -g -O2 
+            -fdebug-prefix-map=/build/neovim-sssaKN/neovim-0.3.1=. -fstack-protector-strong -Wformat 
+            -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -DDISABLE_LOG -Wdate-time 
+            -D_FORTIFY_SOURCE=2 -Wconversion -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -O2 -g 
+            -DMIN_LOG_LEVEL=3 -Og -g -Wall -Wextra -pedantic -Wno-unused-parameter -Wstrict-prototypes 
+            -std=gnu99 -Wimplicit-fallthrough -Wvla -fstack-protector-strong -fdiagnostics-color=auto 
+            -Wno-array-bounds -DINCLUDE_GENERATED_DECLARATIONS -D_GNU_SOURCE -DNVIM_MSGPACK_HAS_FLOAT32 
+            -DNVIM_UNIBI_HAS_VAR_FROM -I/build/neovim-sssaKN/neovim-0.3.1/build/config 
+            -I/build/neovim-sssaKN/neovim-0.3.1/src -I/usr/include -I/build/neovim-sssaKN/neovim-0.3.1/build/src/nvim/auto 
+            -I/build/neovim-sssaKN/neovim-0.3.1/build/include
+
+            Compiled by team+vim@tracker.debian.org
+-------- A short story about prejudice: by Jerry Zhu  -------
+
+*ASCII ART VERSION, WEB VERSION         *
+*AND PHYSICAL HAVE ACTUAL ILLUSTRATIONS.*
+
+*FOREWORD*
+
+Before you begin viewing 
+
+a most unusual storytime, about a fantastical
+paper world. It should be noted :
+
+I never claim to be a good writer.
+
+I never claimed to be a good web designer.
+
+I never even claimed to be a good artist.
+
+However what I am claiming is that this might
+entertain you for better or for worse. 
+
+The meta-ness in the story may be very appealing,
+and maybe so will the straight-forward style in which
+this is written.
+
+Maybe you'll enjoy it, or maybe you won't.
+
+I hope someone does, but if you don't that's okay too.
+
+Anyways here's something special from me to you!
+
+- Jerry :)
+
+*PAGE 1*
+
+A world of paper is just as real as any world don't you agree?
+
+Maybe you don't, and maybe they can persuade you.
+
+Who you ask? Here's one, look!
+
+Just right below.
+
+Paper Samuel, maybe. He's an odd one, even for a paper person.
+He's an explorer. At least that's what he tells himself and his friends.
+
+           ______________
+        -- |Hello there!|       /^\
+     O     --------------  ^    /^\             
+    /|\       =====       /v\   /v\             
+     I        |+++|      //v\\ //|\\            
+    / \       |   |,,,,,,,,|,,,, |,,,,,,,,,,,,,,
+=================================================
+
+He says hello. Maybe you should too? But that's besides the point.
+
+Of course Paper Samuel may not be his real name, but he prefers that
+kind of privacy.
+
+Samuel is at the entrance of a forest, and decided to go camping. He's
+never quite camped before, but he's hoping nothing goes wrong.
+
+*PAGE 2*
+
+He walked and submerged himself in the forest. Finding his grey self,
+covered densely in the tall stick trees.
+
+It's important to note that paper people have never quite discovered
+fire.
+
+Odd I know. Paper people of course never had to eat, drink or even sleep.
+
+Erasers have always served as an integral part of paper-kin culture.
+
+With little other necessities, paper-kin as well as other writing-folk
+such as marker-people, paint-people, or god forbid chalk-people, 
+prided themselves on their artistic ability, because that was the only
+thing of value they had.
+
+Unfortunately unlike the other books in the library, paper-people lived
+alongside penned-people.
+
+-----------------------------------------------------------------------
+ O              <^
+/|\__,           | __                  \O/                O
+ I               |/||\_                 | _Ip___o_k___pI_/|
+/ \               I  I                  =>  |||||||||||  <=
+-----------------------------------------------------------------------
+                     *The paper-turtle-raffe.*
+                     *Along with a board game*
+
+*PAGE 3*
+
+Paper Samuel had been taught all his life that the "other" people were mean.
+
+For what reason? Samuel never knew. The first meeting of penned-people and paper-people
+before the invention of loose-leaf was a long time ago.
+
+There was no particular reason, but penned-people always looked harsher than paper-people.
+Perhaps that was just how they were drawn in the particular book.
+
+Of course it's to be understood that, these paper-kin had never seen each other before.
+
+They always served as the villains of paper-tales or story-time to scare stick-figure paper people.
+
+------------------------------- :
+    *   *   * O *   --- *   * | : When Paper Samuel was a little stick-figure. His mother read him
+| *O  *   *  /||  * |+|   *   | : all sorts of paper stories.
+|()_\___|* {} /|*   --- *   * | : 
+|==<=>==| * *||| * *  *   *  *| : Although he preferred the books the bigger stick-figures were reading. 
+------------------------------- : They were always more fantastical for him.
+
+*PAGE 4*
+
+------------------------------------------
+^     0        /^\         ^              
+^\  O/   '    //^\\       /^\           
+^\  |--^ `   ///|\\\      /^\           
+|   I   `       |          |            
+| ./,\ , ./&\ . | . , . , .|, . , . , . ,
+------------------------------------------
+
+In the mean time from that little diversion, Samuel has found a clearing
+in the forest.
+
+He appears to be trying to start a fire with a flint and rock set but to no avail.
+
+For some reason he just can't get a strong enough spark to light the flame.
+
+He would smack and scratch the rock against the flint only to produce very dim sparks.
+
+Samuel was unable to get the dark color that fire in this book required.
+
+*PAGE 5*
+
+Of course Samuel wasn't the only explorer in the forest. Near by, hearing the efforts
+of the paper-person, a pen-person was listening in.
+
+His name is Manny. Not Paper Manny. Just Manny.
+
+He too was in the forest to just explore and have fun. 
+This was the first time he had really set of exploring 
+and frankly, Manny was just bored.
+
+---------------------------------------------------
+P A N G !!!!*   *   *   *  ~       *  *   ^    *) *
+              *   *   *   ~~~  ^ *      */^\ *   *
+    K!!!!   *   *   *   *  *  /^\   *   //^\\  *
+   N      *   *   *  O*       /^\ *    ///^\\\   *
+  A     *   *   *   /|\  *    /^\  * *  //^\\*  
+ L        *   *   *  I *    *  |  * &     |*   *  *
+C,.,.,.,.,.,,.,.,.,,/.\,.,.,.,.|.,.,|,.,.,|,.,.,.,.
+---------------------------------------------------
+
+*PAGE 5*
+
+------------------------------------------
+^   *   *   *  /^\ *   *   ^   *   *   *  
+^\*   *   *   //^\\  *   */^\*   *   *   *
+^\  *   *   *///|\\\   *  /^\  *   *   * 
+| * ___   *   * | *  *   * | *   *   *   *
+| ..> \O ./&\ . | . , . , .|, . , . , . ,
+------------------------------------------
+
+It has been nearly half an hour since Samuel started attempting
+to light his fire.
+
+He had become angry and annoyed at the lack of a fire. Perhaps
+he was even crying? But then what are tears from within a piece
+of paper?
+
+At the sound of the distress, Manny had decided to investigate the
+noise to find a disenchanted Samuel.
+
+------------------------------------------
+^   *   *   *  /^\ *   *   ^   *   *   *  
+^\*   *   *   //^\\  *   */^\*   O   *   *
+^\  *O  *   *///|\\\   *  /^\  */|\*   * 
+| * /\    *   * | *  *   * | *   I   *   *
+| ./\ *  ./&\ . | . , . , .|, . / \ , . ,
+------------------------------------------
+
+Samuel was scared of Manny, for he had never seen penned-person
+up close. Much less in person.
+
+He was panicking, frantically he tried to crawl away from the penned-man
+and run away.
+
+Manny looked confused as he saw Samuel attempt to scuttle away.
+
+This little play quite comically, continued for nearly an hour.
+
+At the end Samuel was at the top of a tree.
+
+By the time he had calmed down, he was too afraid to drop down.
+
+Not that he could feel pain, but it was just some inherent fear of
+heights.
+
+Manny decided make camp with Samuels fire, while Samuel elected
+to fall a sleep at the top of a tree for the night.
+
+*PAGE 6*
+
+Come morning, Samuel had fallen down from the tree.
+
+Manny was jolted awakened by the sudden drop, and once again Samuel
+had panicked because he had forgotten what had happened the day before.
+
+After Samuel had calmed down, Manny opened his non-existant mouth and
+began to speak.
+
+"Why are you afraid of me?"
+
+Samuel did not expect a voice, that frankly sounded like his own.
+---
+"Why have you not erased me yet?"
+---
+"What's an eraser?"
+
+This small interaction dispelled many disillusions the two had
+about each other.
+
+Maybe that's all it takes?
+
+Who knows, certainly not me. Maybe not even you.
+
+*CARD*
+
+I completely recognize this might not be
+a very specialized or personalized birthday gift. 
+
+However I felt a digital birthday card would've been
+quite the cop-out, since that takes nearly no effort on my part.
+
+While this story might not be entirely entertaining, if you even
+found it interesting for a minute or two or found it funny then
+I've done my job.
+
+Happy Birthday!
